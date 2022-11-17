@@ -1,21 +1,8 @@
-# Phase 1 Project Description
-
-You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
-
-![microsoft](microsoft.webp)
-
-Now you will put your new skills to use with a large end-of-Phase project!
-
-In this project description, we will cover:
-
-* [***Project Overview:***](#project-overview) the project goal, audience, and dataset
-* [***Deliverables:***](#deliverables) the specific items you are required to produce for this project
-* [***Grading:***](#grading) how your project will be scored
-* [***Getting Started:***](#getting-started) guidance for how to begin your first project
+![200w](200w.webp)
 
 ## Project Overview
 
-Exploratory data analysis to generate insights for a business stakeholder.
+Exploratory data analysis to generate insights for Microsoft.
 
 ### Business Problem
 
