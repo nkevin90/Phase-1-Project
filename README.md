@@ -1,4 +1,4 @@
-![200w](200w.webp)
+![microsoft](microsoft.webp)
 
 ## Project Overview
 
