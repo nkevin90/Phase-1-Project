@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Exploratory data analysis to generate insights for Microsoft.
+Exploratory data analysis to generate new insights for Microsoft Movie Studio.
 
 ### Business Problem
 
